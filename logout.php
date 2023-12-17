@@ -4,6 +4,7 @@
 // Mulai sesi (jika belum dimulai)
 session_start();
 
+//mengosongkan variabel-variabel sesi tanpa mengakhiri sesi secara keseluruhan.
 session_unset();
 
 // Hapus semua data sesi
