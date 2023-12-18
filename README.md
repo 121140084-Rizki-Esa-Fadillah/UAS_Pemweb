@@ -18,7 +18,7 @@ Fitur yang tersedia antara lain :
 
 ## Cara menggunakan Web
 1. Registrasi akun, user membuat akun terlebih dahulu untuk melakukan login. Sehingga akun user akan terdaftar kedalam database dan dapat melakukan login.
-2. Login, user diharuskan login sebelum mengakses web untuk mendaftar sebagai anggota kelompok tani. User cukup menginputkan email dan password untuk login.
+2. Login, user diharuskan login sebelum mengakses web untuk mendaftar sebagai anggota kelompok tani. User cukup menginputkan email dan password untuk login. Untuk mempermudah pengecekan web bisa menggunakan email dan password yang telah disediakan jika tidak ingin registrasi (email : example@gmail.com dan Password : 123asd)
 3. Pendaftran anggota kelompok tani, Setelah login user akan masuk ke halaman dashboard dan dapat mengakses fitur - fitur web, salah satunya melakukan pendaftaran. Untuk mendaftar user hanya perlu menambhkan data diri di kolom yang disediakan dan menekan tombol daftar.
 4. Melihat daftar anggota, setelah tombol daftar di klik dan data diri yang telah diisi, tabel daftar anggota akan langsung ter-update dan dapat dilihat user.
 5. Menghapus data, user dapat menghapus data di dalam tabel jika ada kesalahan saat menginputkan data. User cukup menginputkan data no anggota untuk menghapus data.
